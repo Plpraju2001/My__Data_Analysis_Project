@@ -28,11 +28,4 @@ Want to check out my Power BI dashboard? Here’s how you can do it:
 
 ---
 
-### **Next Steps**
-1. **Upload your Power BI dashboard (`.pbix`)** along with data files.
-2. **Follow the steps to create a GitHub repository**.
-3. **Push your files** either through GitHub's web interface or Git CLI.
-4. **Confirm everything is uploaded correctly**.
-5. **Share your GitHub repository link** if you want feedback.
 
-Let me know if you need further guidance! 🚀
