@@ -1,0 +1,38 @@
+[
+    {
+        "Segment": "Government",
+        "Country": "Canada",
+        "Product": "Carretera",
+        "Discount Band": "None",
+        "Units Sold": 1618.5,
+        "Manufacturing Price": "$3.00",
+        "Sale Price": "$20.00",
+        "Gross Sales": "$32,370.00",
+        "Discounts": "$-",
+        "Sales": "$32,370.00",
+        "COGS": "$16,185.00",
+        "Profit": "$16,185.00",
+        "Date": "01-01-2014",
+        "Month Number": 1,
+        "Month Name": "January",
+        "Year": 2014
+    },
+    {
+        "Segment": "Government",
+        "Country": "Germany",
+        "Product": "Carretera",
+        "Discount Band": "None",
+        "Units Sold": 1321,
+        "Manufacturing Price": "$3.00",
+        "Sale Price": "$20.00",
+        "Gross Sales": "$26,420.00",
+        "Discounts": "$-",
+        "Sales": "$26,420.00",
+        "COGS": "$13,210.00",
+        "Profit": "$13,210.00",
+        "Date": "01-01-2014",
+        "Month Number": 1,
+        "Month Name": "January",
+        "Year": 2014
+    }
+]
