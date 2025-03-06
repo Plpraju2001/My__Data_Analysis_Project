@@ -27,5 +27,8 @@ Want to check out my Power BI dashboard? Here’s how you can do it:
    git clone https://github.com/Plpraju2001/PowerBI-Dashboard-Project.git
 
 ---
+## 📚 References
+For a detailed breakdown, refer to the **Solution Methodology** document in this repository.
 
-
+📌 **Author:** *Lakshmipathiraju Pericharla*  
+📆 **Last Updated:** *March 2025*
